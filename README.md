@@ -1,0 +1,1 @@
+Glossário feito com HTML e CSS.

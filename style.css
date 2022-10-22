@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    text-align: center;
+    padding: 1rem;
+    color: blueviolet;
+    border-bottom: 1px solid blueviolet;
+}
+
+h3 {
+    margin: 1rem 1rem;
+}
+
+h3 a {
+    text-decoration: none;
+    color: blueviolet;
+}
+
+dd {
+    margin: 0 2rem; 
+}
